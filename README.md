@@ -1,6 +1,6 @@
 
 # qb-target Nopixel 4.0
-This Script Is Target System For Fivem "QB-CORE".
+This script is a target system for Fivem, QB framework
 This script is basically qb-target. I have changed the style of this script with the idea of NoPixel 4.0.
 
 qb-target is a targeting solution that allows interaction with any predefined entity, model, entity type or polyzone. While activated you can easily and safely replace markers and distance checking, instead relying on intuitive design to improve player experiences and optimize interaction.
