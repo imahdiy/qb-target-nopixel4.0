@@ -1,0 +1,45 @@
+body {
+    overflow: hidden;
+}
+
+#target-eye {
+    content: "\F33E";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    font-size: 2.5vh;
+}
+
+#target-label-wrapper {
+    position: absolute;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: row;
+    left: 52%;
+    width: fit-content;
+    height: fit-content;
+    top: 48.5%;
+}
+
+#target-label {
+    list-style: none;
+    font-size: 1.7vh;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+    user-select: none;
+    white-space: nowrap;
+    background-color: #00000000;
+}
+
+#hex::before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    content: "\2B22";
+    color: #3c575767;
+    font-size: 7vh;
+}
