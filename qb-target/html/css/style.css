@@ -43,3 +43,6 @@ body {
     color: #3c575767;
     font-size: 7vh;
 }
+svg{
+    display: none; //Eye Icon TopLeft
+}
