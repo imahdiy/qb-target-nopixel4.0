@@ -178,7 +178,6 @@ Config.GlobalPlayerOptions = {
             job = {["police"] = 0, ["sasp"] = 0, ["saspr"] = 0, ["bcso"] = 0},
             label = "Take out of Vehicle",
         },
-		distance = 2.0
     }
 }
 
